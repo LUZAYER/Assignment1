@@ -2,7 +2,7 @@ html{
     font-size: 21px;
 }
 body{
-    background-image: url(images/back.jpg);
+    background-image: url(back.jpg);
     background-size: cover;
 }
 form{
